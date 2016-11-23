@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\FloatingStickies-master\\StandOutSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\dock.xml",
+        "source": "D:\\FloatingStickies-master\\StandOutSDK\\build\\intermediates\\bundles\\debug\\res\\anim\\dock.xml"
+    },
+    {
+        "merged": "D:\\FloatingStickies-master\\StandOutSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\close.xml",
+        "source": "D:\\FloatingStickies-master\\StandOutSDK\\build\\intermediates\\bundles\\debug\\res\\anim\\close.xml"
+    },
+    {
+        "merged": "D:\\FloatingStickies-master\\StandOutSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\show.xml",
+        "source": "D:\\FloatingStickies-master\\StandOutSDK\\build\\intermediates\\bundles\\debug\\res\\anim\\show.xml"
+    }
+]

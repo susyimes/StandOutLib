@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="back">#f8f8b6</color>
+    <color name="ics_blue">#33b5e5</color>
+    <color name="light_grey">#ddd</color>
+    <color name="white">#fff</color>
+    <string name="adv">ADV</string>
+    <string name="close">Close</string>
+    <string name="corner">Corner</string>
+    <string name="hide">Hide</string>
+    <string name="window_icon">Window icon</string>
+</resources>
